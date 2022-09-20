@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74c5978b-dfb4-4970-b599-09dc25b6b71b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hash/Non_Completion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hash/PhoneBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hash/Phoneketmon.java" afterDir="false" />
+    <list default="true" id="74c5978b-dfb4-4970-b599-09dc25b6b71b" name="Changes" comment="2022.09.20 - Algorithm Practice&#10; - Hash And Set Algorithms">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,8 +50,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663634257122</updated>
-      <workItem from="1663634258240" duration="15841000" />
+      <workItem from="1663634258240" duration="16264000" />
     </task>
+    <task id="LOCAL-00001" summary="2022.09.20 - Algorithm Practice&#10; - Hash And Set Algorithms">
+      <created>1663657663997</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663657663997</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,5 +75,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2022.09.20 - Algorithm Practice&#10; - Hash And Set Algorithms" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.09.20 - Algorithm Practice&#10; - Hash And Set Algorithms" />
   </component>
 </project>
